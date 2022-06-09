@@ -5,8 +5,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
-import TextField from "@mui/material/TextField";
-import InputAdornment from "@mui/material/InputAdornment";
+import Card from "@mui/material/Card"
 
 import { AppBarSearchInput } from "../src/components/ui/AppBarSearchInput";
 
